@@ -8,6 +8,7 @@
 		"setup"
 	],
 	"license": "MIT",
+	"version": "0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
